@@ -90,3 +90,5 @@ I am a motivated Bachelor of Science in Information Technology student specializ
 ---
 
 <div align="center">
+Focus: Cybersecurity | SIEM Telemetry | System Hardening
+</div>
